@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  line-height: 1.6;
+  color: #222;
+}
+
+header, footer {
+  text-align: center;
+  padding: 16px 0;
+  border-bottom: 2px solid #4a90d9;
+}
+
+footer {
+  border-bottom: none;
+  border-top: 2px solid #4a90d9;
+  margin-top: 30px;
+  font-size: 0.9em;
+  color: #555;
+}
+
+a {
+  color: #4a90d9;
+}
+
+a:hover {
+  color: #1d5fa8;
+}
